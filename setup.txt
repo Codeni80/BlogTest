@@ -1,0 +1,15 @@
+Setup Instructions: 
+
+1. Setup virtualenv (sudo pip3 install virtualenv if not already installed)
+2. Create directory for application and cd into it.
+3. setup virtualenv with <virtualenv Blog>
+4. activate virtualenv with <source Blog/bin/activate>
+5. pip install required modules from requirements file
+6. clone repo from git (git clone https://github.com/Codeni80/BlogTest) and cd to directory
+7. python app.py to run application
+8. localhost:5000 to view application while it is running *
+9. to stop virtualenv: <deactivate>
+
+* localhost:5000/login in order to login as admin and actually be able to use the site **
+
+** password is: secret
